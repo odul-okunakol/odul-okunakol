@@ -1,4 +1,3 @@
-# 👋 Hi there! I'm Ödül Okunakol
 ## 🧾 About Me
 
 I'm a Pricing Actuarial Specialist with experience in real-time portfolio modeling, profitability analysis and insurance product development.  
