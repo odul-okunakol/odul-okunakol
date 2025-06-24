@@ -6,7 +6,6 @@
 
 I am a Pricing Actuarial Specialist with experience in real-time portfolio modeling, profitability analysis, and insurance product development.  
 
-
 - 🔍 Profitability studies & portfolio management  
 - 🏥 Complementary health insurance and fire insurance pricing  
 - 📈 Building actuarial models (GLM) using R for live portfolio monitoring
@@ -39,10 +38,9 @@ A data science project to classify drivers into behavioral segments using real-w
 
 - 🇩🇪 Based in **Munich, Germany**  
 - 🗣️ Enrolled in a **German language course**  
-- 📈 Improving my R, SQL, and insurance-focused machine learning expertise
+- 📈 Improving my R, Pyton, SQL, and insurance-focused machine learning expertise
 
 ## 📫 Contact
-
 - 💼 LinkedIn: [linkedin.com/in/odulokunakol](https://linkedin.com/in/odulokunakol) *(replace if different)*  
-- 📧 Email: odul.okunakol@example.com *(optional)*
+  
 
