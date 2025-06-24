@@ -10,7 +10,7 @@ I am a Pricing Actuarial Specialist with experience in real-time portfolio model
 - 🏥 Complementary health insurance and fire insurance pricing  
 - 📈 Building actuarial models (GLM) using R for live portfolio monitoring
 
-- Insurance policy screen QA for clients (Groupama, Unico, etc.)  
+- Insurance policy screen QA for clients 
 - Financial scorecard development and authorization flow analysis
 
 ## 💼 Projects
@@ -24,9 +24,8 @@ A data science project to classify drivers into behavioral segments using real-w
 
 - **Programming:** R, SQL, PL/SQL, Python  
 - **Modeling Techniques:** GLM, Logistic Regression, Neural Networks (ANN)  
-- **Database Systems:** Oracle, PostgreSQL  
 - **Actuarial Applications:** Pricing, Profitability, Ruin Probability Models  
-- **Visualization & Tools:** Excel, RStudio, Git, Streamlit  
+- **Visualization & Tools:** Excel, PowerBI,Streamlit  
 - **Soft Skills:** Analytical thinking, product-focused modeling, stakeholder communication
 
 ## 📚 Education
