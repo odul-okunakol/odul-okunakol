@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ödül Okunakol
 
-🎯 **Pricing Actuarial Specialist | Data Science Enthusiast**
+💼 Pricing Actuarial Specialist | Insurance Business Analyst | Data Science Enthusiast
 
 ## 🧾 About Me
 
