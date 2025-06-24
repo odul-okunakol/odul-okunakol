@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ödül Okunakol
 
-🎯 **Pricing Actuarial Specialist | Data Analytics Enthusiast | R · SQL · GLM · Insurance Modeling**
+🎯 **Pricing Actuarial Specialist | Data Analytics Enthusiast**
 
 ## 🧾 About Me
 
