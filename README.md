@@ -40,6 +40,6 @@ A data science project to classify drivers into behavioral segments using real-w
 - 📈 Improving my R, Pyton, SQL, and insurance-focused machine learning expertise
 
 ## 📫 Contact
-- 💼 LinkedIn: [linkedin.com/in/odulokunakol](https://linkedin.com/in/odulokunakol) *(replace if different)*  
+- 💼 LinkedIn: [linkedin.com/in/odulokunakol](https://www.linkedin.com/in/%C3%B6d%C3%BCl-okunakol/) *(replace if different)*  
   
 
