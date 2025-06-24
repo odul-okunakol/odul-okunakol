@@ -15,7 +15,7 @@ I am a Pricing Actuarial Specialist with experience in real-time portfolio model
 ### 🚙 Driver Behavior Classification using Telematics Data  
 A data science project to classify drivers into behavioral segments using real-world vehicle telematics data.  
 🛠 Tools: Python, Scikit-learn, Streamlit  
-🔗 [View Project](https://github.com/odulokunakol/driver-behavior-classification) *(replace with real URL)*
+🔗 [View Project](https://github.com/odul-okunakol/driver-behavior-analysis-telematics) *(replace with real URL)*
 
 ## 🧠 Skills & Tools
 
