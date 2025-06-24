@@ -3,8 +3,8 @@
 
 I am a Pricing Actuarial Specialist with experience in real-time portfolio modeling, profitability analysis, and insurance product development.  
 
-- 🔍 Profitability studies & portfolio management  
-- 🏥 Complementary health insurance and fire insurance pricing  
+- 🔍 Profitability studies & portfolio management
+- 🏥 Complementary health insurance and fire insurance pricing
 - 📈 Building actuarial models (GLM) using R for live portfolio monitoring
 
 - Insurance policy screen QA for clients 
