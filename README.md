@@ -1,7 +1,4 @@
 # 👋 Hi there! I'm Ödül Okunakol
-
-💼 Pricing Actuarial Specialist | Insurance Business Analyst | Data Science Enthusiast
-
 ## 🧾 About Me
 
 I am a Pricing Actuarial Specialist with experience in real-time portfolio modeling, profitability analysis, and insurance product development.  
@@ -28,18 +25,6 @@ A data science project to classify drivers into behavioral segments using real-w
 - **Visualization & Tools:** Excel, PowerBI,Streamlit  
 - **Soft Skills:** Analytical thinking, product-focused modeling, stakeholder communication
 
-## 📚 Education
-
-🎓 Master’s Student in Actuarial Science — **Hacettepe University**  
-📝 Thesis: *“Evaluation of Ruin Probability using GLM and Combined Actuarial Neural Networks – A Case in Complementary Health Insurance”*
-
-## 🌍 Currently
-
-- 🇩🇪 Based in **Munich, Germany**  
-- 🗣️ Enrolled in a **German language course**  
-- 📈 Improving my R, Pyton, SQL, and insurance-focused machine learning expertise
-
 ## 📫 Contact
 - 💼 LinkedIn: [linkedin.com/in/odulokunakol](https://www.linkedin.com/in/%C3%B6d%C3%BCl-okunakol/) *(replace if different)*  
   
-
