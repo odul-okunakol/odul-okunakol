@@ -1,17 +1,16 @@
 # 👋 Hi there! I'm Ödül Okunakol
 
-🎯 **Pricing Actuarial Specialist | Data Analytics Enthusiast**
+🎯 **Pricing Actuarial Specialist | Data Science Enthusiast**
 
 ## 🧾 About Me
 
 I am a Pricing Actuarial Specialist with experience in real-time portfolio modeling, profitability analysis, and insurance product development.  
-Currently working remotely at **Magdeburger Company** (Turkey), where I focus on:
+
 
 - 🔍 Profitability studies & portfolio management  
-- 🏥 Complementary health insurance and 🔥 fire insurance pricing  
+- 🏥 Complementary health insurance and fire insurance pricing  
 - 📈 Building actuarial models (GLM) using R for live portfolio monitoring
 
-Previously worked as a **Business Analyst** at **Vizyoneks**, contributing to:
 - Insurance policy screen QA for clients (Groupama, Unico, etc.)  
 - Financial scorecard development and authorization flow analysis
 
