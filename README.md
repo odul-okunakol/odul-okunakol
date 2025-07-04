@@ -20,7 +20,7 @@ A data science project to classify drivers into behavioral segments using real-w
 ## 🧠 Skills & Tools
 - **Programming:** R, SQL, PL/SQL, Python  
 - **Modeling Techniques:** GLM, Logistic Regression, Neural Networks (ANN)  
-- **Actuarial Applications:** Pricing, Profitability, Ruin Probability Models  
+- **Actuarial Applications:** Pricing, Profitability,
 - **Visualization & Tools:** Excel, PowerBI,Streamlit  
 - **Soft Skills:** Analytical thinking, product-focused modeling, stakeholder communication
 
